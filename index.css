@@ -52,7 +52,7 @@
   }
 
   .u-section-1-1 .u-sheet-1 {
-    min-height: 381px;
+    min-height: 344px;
   }
 
   .u-section-1-1 .u-text-1 {
@@ -118,11 +118,12 @@
   }
 
   .u-section-1-2 .u-sheet-1 {
-    min-height: 286px;
+    min-height: 347px;
   }
 
   .u-section-1-2 .u-text-1 {
     font-size: 3.4375rem;
+    margin: 230px -26px 57px 26px;
   }
 }.u-section-1-3 {
   background-image: url("images/DSCF0748.jpg");
@@ -183,11 +184,12 @@
   }
 
   .u-section-1-3 .u-sheet-1 {
-    min-height: 286px;
+    min-height: 344px;
   }
 
   .u-section-1-3 .u-text-1 {
     font-size: 3.4375rem;
+    margin: 224px 20px 60px -20px;
   }
 }.u-section-1-4 {
   background-image: url("images/handshake-of-two-men-successful-business-contacts--8AKH4YD.jpeg");
@@ -250,11 +252,14 @@
   }
 
   .u-section-1-4 .u-sheet-1 {
-    min-height: 286px;
+    min-height: 344px;
   }
 
   .u-section-1-4 .u-text-1 {
     font-size: 3.4375rem;
+    margin-top: 224px;
+    margin-right: 63px;
+    margin-left: -63px;
   }
 }.u-block-5501-2 {
   position: absolute;
@@ -269,7 +274,7 @@
   right: auto;
 }
 
-.u-block-5501-4 {
+.u-block-5501-6 {
   position: absolute;
   width: 65px;
   height: 65px;
@@ -995,10 +1000,9 @@
   margin-left: 0;
 }
 
-.u-section-6 .u-image-1 {
-  width: 421px;
-  height: 137px;
-  margin: -299px auto 60px 56px;
+.u-section-6 .u-text-1 {
+  font-size: 1.25rem;
+  margin: -252px 673px 60px 50px;
 }
 
 @media (max-width: 1199px) {
@@ -1006,11 +1010,20 @@
     margin-right: 0;
     margin-left: 370px;
   }
+
+  .u-section-6 .u-text-1 {
+    margin-right: 523px;
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-6 .u-form-1 {
     margin-left: 150px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-right: 303px;
   }
 }
 
@@ -1018,16 +1031,14 @@
   .u-section-6 .u-form-1 {
     margin-left: 0;
   }
+
+  .u-section-6 .u-text-1 {
+    margin-right: 123px;
+  }
 }
 
 @media (max-width: 575px) {
-  .u-section-6 .u-sheet-1 {
-    min-height: 544px;
-  }
-
-  .u-section-6 .u-image-1 {
-    width: 340px;
-    height: 111px;
-    margin-left: 0;
+  .u-section-6 .u-text-1 {
+    margin-right: 0;
   }
 }
