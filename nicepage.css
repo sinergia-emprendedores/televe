@@ -1,4 +1,4 @@
-/*begin-commonstyles library*//*!
+﻿/*begin-commonstyles library*//*!
  * froala_editor v3.2.3 (https://www.froala.com/wysiwyg-editor)
  * License https://froala.com/wysiwyg-editor/terms/
  * Copyright 2014-2020 Froala Labs
@@ -4107,23 +4107,14 @@ button,
 select {
   text-transform: none;
 }
-button,
-html [type="button"],
-[type="reset"],
-[type="submit"] {
+button, html [type=button], [type=reset], [type=submit] {
   -webkit-appearance: button;
 }
-button::-moz-focus-inner,
-[type="button"]::-moz-focus-inner,
-[type="reset"]::-moz-focus-inner,
-[type="submit"]::-moz-focus-inner {
+button::-moz-focus-inner, [type=button]::-moz-focus-inner, [type=reset]::-moz-focus-inner, [type=submit]::-moz-focus-inner {
   border-style: none;
   padding: 0;
 }
-button:-moz-focusring,
-[type="button"]:-moz-focusring,
-[type="reset"]:-moz-focusring,
-[type="submit"]:-moz-focusring {
+button:-moz-focusring, [type=button]:-moz-focusring, [type=reset]:-moz-focusring, [type=submit]:-moz-focusring {
   outline: 1px dotted ButtonText;
 }
 fieldset {
@@ -4142,21 +4133,18 @@ legend {
 textarea {
   overflow: auto;
 }
-[type="checkbox"],
-[type="radio"] {
+[type=checkbox], [type=radio] {
   box-sizing: border-box;
   padding: 0;
 }
-[type="number"]::-webkit-inner-spin-button,
-[type="number"]::-webkit-outer-spin-button {
+[type=number]::-webkit-inner-spin-button, [type=number]::-webkit-outer-spin-button {
   height: auto;
 }
-[type="search"] {
+[type=search] {
   -webkit-appearance: textfield;
   outline-offset: -2px;
 }
-[type="search"]::-webkit-search-cancel-button,
-[type="search"]::-webkit-search-decoration {
+[type=search]::-webkit-search-cancel-button, [type=search]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 ::-webkit-input-placeholder {
@@ -5441,8 +5429,7 @@ a {
 .u-form .u-form-group.u-form-agree {
   display: flex;
 }
-.u-form .u-form-group.u-form-checkbox input[type="checkbox"],
-.u-form .u-form-group.u-form-agree input[type="checkbox"] {
+.u-form .u-form-group.u-form-checkbox input[type=checkbox], .u-form .u-form-group.u-form-agree input[type=checkbox] {
   float: left;
   flex-shrink: 0;
 }
@@ -5454,7 +5441,7 @@ a {
 .u-form .u-form-horizontal .u-form-group.u-form-agree {
   align-items: center;
 }
-.u-form .u-form-horizontal input[type="checkbox"] {
+.u-form .u-form-horizontal input[type=checkbox] {
   width: 13px;
   max-width: 13px;
   margin-bottom: 3px;
@@ -8915,7 +8902,7 @@ section.u-image,
   max-width: 50%;
 }
 .u-layout-col > .u-size-30 {
-  flex: 30 0 50%;
+  max-width: 100%;
 }
 .u-layout-row > .u-size-29 {
   flex: 0 0 48.33333333%;
@@ -33828,48 +33815,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header {
-  background-image: none;
+  background-image: url('images/Bkgnd.png');
 }
 
 .u-header .u-sheet-1 {
-  min-height: 194px;
+  min-height: 30px;
 }
 
 .u-header .u-image-1 {
-  margin: 35px auto;
+  margin: 35px auto 20px 0;
 }
 
-.u-header .u-logo-image-1 {
-  max-width: 349px;
-  max-height: 349px;
-}
-@media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    width: 64px;
-    height: 32px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-header .u-image-1 {
-    width: auto;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 144px;
-  }
-
-  .u-header .u-image-1 {
-    width: 281px;
-    height: 117px;
-  }
-
-  .u-header .u-logo-image-1 {
-    max-width: 281px;
-    max-height: 281px;
-  }
-}
 .u-footer {
   background-image: none;
 }
@@ -33881,7 +33837,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-image-1 {
   width: 266px;
   height: 94px;
-  margin: 37px auto 0;
+  margin: 35px auto 20px 0;
 }
 
 .u-footer .u-text-1 {

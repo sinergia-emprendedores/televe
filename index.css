@@ -1,5 +1,5 @@
-.u-section-1-1 {
-  background-image: url("images/scada.jpeg");
+﻿.u-section-1-1 {
+  background-image: url("images/Circuit.jpeg");
   background-position: 50% 50%;
 }
 
@@ -11,8 +11,8 @@
   font-weight: 600;
   text-transform: uppercase;
   font-family: Oswald, sans-serif;
-  font-size: 6.875rem;
-  margin: 536px 16px 60px;
+  font-size: 7rem;
+  margin: 590px 20px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -21,46 +21,47 @@
   }
 
   .u-section-1-1 .u-text-1 {
-    margin-right: 0;
-    margin-left: 0;
+  font-size: 6rem;
+  margin: 480px 20px 0 0;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 502px;
+    min-height: 550px;
   }
 
   .u-section-1-1 .u-text-1 {
-    font-size: 6rem;
+    font-size: 5rem;
+    margin: 390px 20px 0 0;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 377px;
+    min-height: 454px;
   }
 
   .u-section-1-1 .u-text-1 {
-    font-size: 5rem;
+    font-size: 4rem;
+     margin: 320px 20px 0 0;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1-1 {
-    background-position: 57.82% 50%;
-  }
-
   .u-section-1-1 .u-sheet-1 {
     min-height: 344px;
   }
+ 
 
   .u-section-1-1 .u-text-1 {
-    font-size: 3.75rem;
-    margin-top: 44px;
+    font-size: 3rem;
+    margin: 250px 20px 0 0;
   }
-}.u-section-1-2 {
-  background-image: url("images/computer-program-code-on-a-screen-P4V8GE9.jpg");
+}
+
+.u-section-1-2 {
+  background-image: url("images/Code.jpg");
   background-position: 50% 50%;
 }
 
@@ -72,8 +73,8 @@
   font-weight: 600;
   text-transform: uppercase;
   font-family: Oswald, sans-serif;
-  font-size: 6.875rem;
-  margin: 589px 255px 60px 0;
+  font-size: 7rem;
+  margin: 590px 20px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -82,9 +83,8 @@
   }
 
   .u-section-1-2 .u-text-1 {
-    width: auto;
-    margin-top: 341px;
-    margin-right: 55px;
+  font-size: 6rem;
+  margin: 480px 20px 0 0;
   }
 }
 
@@ -94,9 +94,8 @@
   }
 
   .u-section-1-2 .u-text-1 {
-    font-size: 6rem;
-    margin-top: 275px;
-    margin-right: 0;
+    font-size: 5rem;
+    margin: 390px 20px 0 0;
   }
 }
 
@@ -106,25 +105,22 @@
   }
 
   .u-section-1-2 .u-text-1 {
-    font-size: 5rem;
-    margin-top: 227px;
+    font-size: 4rem;
+     margin: 320px 20px 0 0;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1-2 {
-    background-position: 32.01% 51.23%;
-    background-size: auto 155%;
-  }
-
   .u-section-1-2 .u-sheet-1 {
-    min-height: 347px;
+    min-height: 344px;
   }
 
   .u-section-1-2 .u-text-1 {
-    font-size: 3.4375rem;
-    margin: 230px -26px 57px 26px;
+    font-size: 3rem;
+    margin: 250px 20px 0 0;
   }
+  
+  
 }.u-section-1-3 {
   background-image: url("images/Neurona.jpeg");
   background-position: 50% 50%;
@@ -138,8 +134,8 @@
   font-weight: 600;
   text-transform: uppercase;
   font-family: Oswald, sans-serif;
-  font-size: 6.875rem;
-  margin: 499px 0 0 212px;
+  font-size: 7rem;
+  margin: 590px 20px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -148,9 +144,8 @@
   }
 
   .u-section-1-3 .u-text-1 {
-    width: auto;
-    margin-top: 341px;
-    margin-left: 12px;
+  font-size: 6rem;
+  margin: 480px 20px 0 0;
   }
 }
 
@@ -160,9 +155,8 @@
   }
 
   .u-section-1-3 .u-text-1 {
-    font-size: 6rem;
-    margin-top: 275px;
-    margin-left: 0;
+    font-size: 5rem;
+    margin: 390px 20px 0 0;
   }
 }
 
@@ -172,29 +166,25 @@
   }
 
   .u-section-1-3 .u-text-1 {
-    font-size: 5rem;
-    margin-top: 227px;
+    font-size: 4rem;
+     margin: 320px 20px 0 0;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1-3 {
-    background-position: 32.01% 51.23%;
-    background-size: auto 155%;
-  }
-
   .u-section-1-3 .u-sheet-1 {
     min-height: 344px;
   }
 
   .u-section-1-3 .u-text-1 {
-    font-size: 3.4375rem;
-    margin: 224px 20px 60px -20px;
+    font-size: 3rem;
+    margin: 250px 20px 0 0;
   }
+  
+  
 }.u-section-1-4 {
-  background-image: url("images/handshake-of-two-men-successful-business-contacts--8AKH4YD.jpeg");
-  background-position: 14.83% 30.85%;
-  background-size: 175%;
+  background-image: url("images/Handshake.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1-4 .u-sheet-1 {
@@ -205,8 +195,8 @@
   font-weight: 600;
   text-transform: uppercase;
   font-family: Oswald, sans-serif;
-  font-size: 6.875rem;
-  margin: 492px -1px 60px 314px;
+  font-size: 7rem;
+  margin: 590px 20px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -215,9 +205,8 @@
   }
 
   .u-section-1-4 .u-text-1 {
-    width: auto;
-    margin-top: 341px;
-    margin-left: 214px;
+  font-size: 6rem;
+  margin: 480px 20px 0 0;
   }
 }
 
@@ -227,10 +216,8 @@
   }
 
   .u-section-1-4 .u-text-1 {
-    font-size: 6rem;
-    margin-top: 275px;
-    margin-left: 0;
-    margin-right: 0;
+    font-size: 5rem;
+    margin: 390px 20px 0 0;
   }
 }
 
@@ -240,27 +227,23 @@
   }
 
   .u-section-1-4 .u-text-1 {
-    font-size: 5rem;
-    margin-top: 227px;
+    font-size: 4rem;
+     margin: 320px 20px 0 0;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1-4 {
-    background-position: 32.01% 51.23%;
-    background-size: auto 155%;
-  }
 
   .u-section-1-4 .u-sheet-1 {
     min-height: 344px;
   }
 
   .u-section-1-4 .u-text-1 {
-    font-size: 3.4375rem;
-    margin-top: 224px;
-    margin-right: 63px;
-    margin-left: -63px;
+    font-size: 3rem;
+    margin: 250px 20px 0 0;
   }
+  
+  
 }.u-block-5501-2 {
   position: absolute;
   bottom: 10px;
@@ -295,7 +278,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 520px;
-  background-image: url("images/automation-transportation-robotic-delivery-service-MLSABC4.jpeg");
+  background-image: url("images/Robot.jpeg");
   background-position: 21.89% 50%;
 }
 
@@ -432,175 +415,158 @@
   .u-section-3 .u-text-2 {
     width: 340px;
   }
+}
+
+
+
+
+
+
+
+
+
+ 
+  
 }.u-section-4 {
   background-image: none;
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 689px;
+  min-height: 100px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
-  margin: 60px 0;
+  margin: 60px;
 }
 
 .u-section-4 .u-image-1 {
-  min-height: 273px;
-  background-image: url("images/machine-tool-in-metal-factory-with-drilling-cnc-ma-KVGNJCH2.jpg");
-  background-position: 50% 50%;
+  min-height: 200px;
+  background-image: url("images/Maquinaria.jpg");
 }
 
 .u-section-4 .u-container-layout-1 {
-  padding: 30px;
+  padding: 10px;
 }
 
 .u-section-4 .u-layout-cell-2 {
-  min-height: 273px;
+  min-height: 100px;
   background-image: none;
 }
 
 .u-section-4 .u-container-layout-2 {
-  padding: 30px;
+  padding: 10px;
 }
 
 .u-section-4 .u-text-1 {
   font-size: 1.5rem;
-  margin: 11px 0 0;
 }
 
 .u-section-4 .u-image-2 {
-  min-height: 273px;
-  background-image: url("images/modern-technology-allows-for-better-navigation-HUBXPUN.jpg");
-  background-position: 50% 50%;
+  min-height: 200px;
+  background-image: url("images/Process.jpg");
 }
 
 .u-section-4 .u-container-layout-3 {
-  padding: 30px;
+  padding: 10px;
 }
 
 .u-section-4 .u-layout-cell-4 {
-  min-height: 273px;
+  min-height: 100px;
   background-image: none;
 }
 
 .u-section-4 .u-container-layout-4 {
-  padding: 30px;
+  padding: 10px;
 }
 
 .u-section-4 .u-text-2 {
   font-size: 1.5rem;
-  margin: 11px 0 0;
 }
 
 .u-section-4 .u-layout-cell-5 {
-  min-height: 273px;
+  min-height: 100px;
   background-image: none;
 }
 
 .u-section-4 .u-container-layout-5 {
-  padding: 30px;
+  padding: 10px;
 }
 
 .u-section-4 .u-text-3 {
   font-size: 1.5rem;
-  margin: 9px 0 0;
 }
 
 .u-section-4 .u-image-3 {
-  min-height: 273px;
-  background-image: url("images/1749554.jpeg");
-  background-position: 50% 50%;
+  min-height: 200px;
+  background-image: url("images/Desarrollo.jpg");
 }
 
 .u-section-4 .u-container-layout-6 {
-  padding: 30px;
+  padding: 10px;
 }
 
 .u-section-4 .u-layout-cell-7 {
-  min-height: 273px;
+  min-height: 100px;
   background-image: none;
 }
 
 .u-section-4 .u-container-layout-7 {
-  padding: 30px;
+  padding: 10px;
 }
 
 .u-section-4 .u-text-4 {
   font-size: 1.5rem;
-  margin: 0;
 }
 
 .u-section-4 .u-image-4 {
-  min-height: 273px;
-  background-image: url("images/farmer-using-tablet-computer-in-cornfield-with-irr-NA46J28.jpeg");
-  background-position: 77.65% 50%;
+  min-height: 200px;
+  background-image: url("images/Control.jpg");
 }
 
 .u-section-4 .u-container-layout-8 {
-  padding: 30px;
+  padding: 10px;
 }
 
+
 @media (max-width: 1199px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 593px;
-  }
-
-  .u-section-4 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-4 .u-image-1 {
-    min-height: 225px;
-  }
-
-  .u-section-4 .u-layout-cell-2 {
-    min-height: 225px;
-  }
-
-  .u-section-4 .u-image-2 {
-    min-height: 225px;
-  }
-
-  .u-section-4 .u-layout-cell-4 {
-    min-height: 225px;
-  }
-
-  .u-section-4 .u-layout-cell-5 {
-    min-height: 225px;
-  }
-
-  .u-section-4 .u-image-3 {
-    min-height: 225px;
-  }
-
-  .u-section-4 .u-layout-cell-7 {
-    min-height: 225px;
-  }
-
-  .u-section-4 .u-image-4 {
-    min-height: 225px;
+.u-section-4 .u-text-1 {
+  font-size: 1.5rem;
+}
+.u-section-4 .u-text-2 {
+  font-size: 1.5rem;
+}
+.u-section-4 .u-text-3 {
+  font-size: 1.5rem;
+}
+  .u-section-4 .u-text-4 {
+    font-size: 1.5rem;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 1523px;
+  .u-section-4 .u-image-1 {
+    min-height: 200px;
+    order: 0;
   }
 
-  .u-section-4 .u-image-1 {
-    min-height: 345px;
+  .u-section-4 .u-image-2 {
+    min-height: 200px;
+    order: 3;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 200px;
     order: 0;
+  }
+
+  .u-section-4 .u-image-4 {
+    min-height: 200px;
+    order: 3;
   }
 
   .u-section-4 .u-layout-cell-2 {
     min-height: 100px;
     order: 1;
-  }
-
-  .u-section-4 .u-image-2 {
-    min-height: 345px;
-    order: 3;
   }
 
   .u-section-4 .u-layout-cell-4 {
@@ -613,432 +579,109 @@
     order: 1;
   }
 
-  .u-section-4 .u-image-3 {
-    min-height: 345px;
-    order: 0;
-  }
-
   .u-section-4 .u-layout-cell-7 {
     min-height: 100px;
     order: 2;
   }
 
-  .u-section-4 .u-image-4 {
-    min-height: 345px;
-    order: 3;
+  .u-section-4 .u-text-1 {
+    font-size: 1.25rem;
+  }
+  .u-section-4 .u-text-2 {
+    font-size: 1.25rem;
+  }
+  .u-section-4 .u-text-3 {
+    font-size: 1.25rem;
+  }
+  .u-section-4 .u-text-4 {
+    font-size: 1.25rem;
   }
 }
 
+
 @media (max-width: 767px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 2415px;
-  }
-
   .u-section-4 .u-image-1 {
-    min-height: 518px;
-  }
-
-  .u-section-4 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-4 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
+    min-height: 200px;
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 518px;
+    min-height: 200px;
     order: 2;
   }
 
-  .u-section-4 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .u-section-4 .u-image-3 {
+    min-height: 200px;
+  }
+
+  .u-section-4 .u-image-4 {
+    min-height: 200px;
+    order: 2;
   }
 
   .u-section-4 .u-layout-cell-4 {
+    min-height: 100px;
     order: 3;
-  }
-
-  .u-section-4 .u-container-layout-4 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-4 .u-container-layout-5 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-4 .u-image-3 {
-    min-height: 518px;
-  }
-
-  .u-section-4 .u-container-layout-6 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 
   .u-section-4 .u-layout-cell-7 {
+    min-height: 100px;
     order: 3;
   }
 
-  .u-section-4 .u-container-layout-7 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .u-section-4 .u-text-1 {
+    font-size: 1.25rem;
   }
-
-  .u-section-4 .u-image-4 {
-    min-height: 518px;
-    order: 2;
+  .u-section-4 .u-text-2 {
+    font-size: 1.25rem;
   }
-
-  .u-section-4 .u-container-layout-8 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .u-section-4 .u-text-3 {
+    font-size: 1.25rem;
+  }
+  .u-section-4 .u-text-4 {
+    font-size: 1.25rem;
   }
 }
 
-@media (max-width: 575px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 1647px;
-  }
 
+@media (max-width: 575px) {
   .u-section-4 .u-image-1 {
-    min-height: 326px;
+    min-height: 200px;
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 326px;
+    min-height: 200px;
+    order: 2;
   }
 
   .u-section-4 .u-image-3 {
-    min-height: 326px;
+    min-height: 200px;
   }
 
   .u-section-4 .u-image-4 {
-    min-height: 326px;
-  }
-}.u-section-5 {
-  background-image: none;
-}
-
-.u-section-5 .u-sheet-1 {
-  min-height: 740px;
-}
-
-.u-section-5 .u-slider-1 {
-  min-height: 600px;
-  margin: 50px auto 60px 0;
-}
-
-.u-section-5 .u-carousel-indicators-1 {
-  position: absolute;
-  width: 108px;
-  height: 3px;
-  top: auto;
-  bottom: 30px;
-}
-
-.u-section-5 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/alameda-principal.jpeg");
-  background-position: 50% 50%;
-}
-
-.u-section-5 .u-container-layout-1 {
-  padding: 30px;
-}
-
-.u-section-5 .u-group-1 {
-  width: 581px;
-  min-height: 289px;
-  margin: 281px auto -30px;
-}
-
-.u-section-5 .u-container-layout-2 {
-  padding: 30px 50px;
-}
-
-.u-section-5 .u-text-1 {
-  margin: 18px 0 0;
-}
-
-.u-section-5 .u-text-2 {
-  margin: 20px 0 0;
-}
-
-.u-section-5 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/working-on-production-line-PJK89VE.jpeg");
-  background-position: 50% 50%;
-}
-
-.u-section-5 .u-container-layout-3 {
-  padding: 30px;
-}
-
-.u-section-5 .u-group-2 {
-  width: 581px;
-  min-height: 289px;
-  margin: 281px auto -30px;
-}
-
-.u-section-5 .u-container-layout-4 {
-  padding: 30px 50px;
-}
-
-.u-section-5 .u-text-3 {
-  margin: 18px 0 0;
-}
-
-.u-section-5 .u-text-4 {
-  margin: 20px 0 0;
-}
-
-.u-section-5 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/big-loaded-mining-truck-3AHB68E.jpeg");
-}
-
-.u-section-5 .u-container-layout-5 {
-  padding: 30px 50px;
-}
-
-.u-section-5 .u-group-3 {
-  width: 581px;
-  min-height: 289px;
-  margin: 281px auto -30px;
-}
-
-.u-section-5 .u-container-layout-6 {
-  padding: 30px 50px;
-}
-
-.u-section-5 .u-text-5 {
-  margin: 18px 0 0;
-}
-
-.u-section-5 .u-text-6 {
-  margin: 20px 0 0;
-}
-
-.u-section-5 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/business-team-investment-working-with-computer-planning-and-analyzing-graph-stock-market-trading-with_t20_KvBbp9.jpeg");
-}
-
-.u-section-5 .u-container-layout-7 {
-  padding: 30px 50px;
-}
-
-.u-section-5 .u-group-4 {
-  width: 581px;
-  min-height: 289px;
-  margin: 281px auto -30px 221px;
-}
-
-.u-section-5 .u-container-layout-8 {
-  padding: 30px 50px;
-}
-
-.u-section-5 .u-text-7 {
-  margin: 18px 0 0;
-}
-
-.u-section-5 .u-text-8 {
-  margin: 20px 0 0;
-}
-
-.u-section-5 .u-carousel-control-1 {
-  width: 28px;
-  height: 28px;
-  left: 0;
-  position: absolute;
-  right: auto;
-  background-image: none;
-}
-
-.u-section-5 .u-carousel-control-2 {
-  width: 28px;
-  height: 28px;
-  left: auto;
-  position: absolute;
-  right: 0;
-  background-image: none;
-}
-
-@media (max-width: 1199px) {
-  .u-section-5 .u-slider-1 {
-    min-height: 546px;
-    height: auto;
-    margin-right: initial;
-    margin-left: initial;
+    min-height: 200px;
+    order: 2;
   }
 
-  .u-section-5 .u-group-4 {
-    margin-left: auto;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-5 .u-slider-1 {
-    min-height: 483px;
-    margin-right: initial;
-    margin-left: initial;
+  .u-section-4 .u-layout-cell-4 {
+    min-height: 100px;
+    order: 3;
   }
 
-  .u-section-5 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
+  .u-section-4 .u-layout-cell-7 {
+    min-height: 100px;
+    order: 3;
   }
 
-  .u-section-5 .u-container-layout-4 {
-    padding-left: 30px;
-    padding-right: 30px;
+  .u-section-4 .u-text-1 {
+    font-size: 1rem;
   }
-
-  .u-section-5 .u-container-layout-5 {
-    padding-left: 30px;
-    padding-right: 30px;
+  .u-section-4 .u-text-2 {
+    font-size: 1rem;
   }
-
-  .u-section-5 .u-container-layout-6 {
-    padding-left: 30px;
-    padding-right: 30px;
+  .u-section-4 .u-text-3 {
+    font-size: 1rem;
   }
-
-  .u-section-5 .u-container-layout-7 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-5 .u-container-layout-8 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-5 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-5 .u-group-1 {
-    width: 445px;
-    min-height: 354px;
-  }
-
-  .u-section-5 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-5 .u-group-2 {
-    width: 445px;
-    min-height: 354px;
-  }
-
-  .u-section-5 .u-container-layout-5 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-5 .u-group-3 {
-    width: 445px;
-    min-height: 354px;
-  }
-
-  .u-section-5 .u-container-layout-7 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-5 .u-group-4 {
-    width: 445px;
-    min-height: 354px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-5 .u-group-1 {
-    width: 320px;
-    margin-right: 0;
-  }
-
-  .u-section-5 .u-group-2 {
-    width: 320px;
-    margin-right: 0;
-  }
-
-  .u-section-5 .u-group-3 {
-    width: 320px;
-    margin-right: 0;
-  }
-
-  .u-section-5 .u-group-4 {
-    width: 320px;
-    margin-right: 0;
-  }
-}.u-section-6 {
-  background-image: none;
-}
-
-.u-section-6 .u-sheet-1 {
-  min-height: 570px;
-}
-
-.u-section-6 .u-form-1 {
-  height: 440px;
-  margin: 60px 33px 0 537px;
-}
-
-.u-section-6 .u-form-group-1 {
-  margin-left: 0;
-}
-
-.u-section-6 .u-form-group-3 {
-  margin-left: 0;
-}
-
-.u-section-6 .u-text-1 {
-  font-size: 1.25rem;
-  margin: -252px 673px 60px 50px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-6 .u-form-1 {
-    margin-right: 0;
-    margin-left: 370px;
-  }
-
-  .u-section-6 .u-text-1 {
-    margin-right: 523px;
-    margin-left: 0;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-6 .u-form-1 {
-    margin-left: 150px;
-  }
-
-  .u-section-6 .u-text-1 {
-    margin-right: 303px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-6 .u-form-1 {
-    margin-left: 0;
-  }
-
-  .u-section-6 .u-text-1 {
-    margin-right: 123px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-6 .u-text-1 {
-    margin-right: 0;
+  .u-section-4 .u-text-4 {
+    font-size: 1rem;
   }
 }
